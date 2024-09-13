@@ -267,7 +267,7 @@ h1 {
     gap: 5px; /* Adjust gap as needed */
     margin-top: 20px;
     padding: 1%; /* Add padding to ensure space around the items */
-    font-size:2vh;
+    font-size: 1rem;
 }
 
 /* Responsive styles for larger screens */

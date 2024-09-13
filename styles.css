@@ -15,6 +15,13 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
+.footer {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+  color: #1c1c1c;
+}
+
 .container {
     display: flex;
     flex-direction: column;
